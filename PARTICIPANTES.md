@@ -39,6 +39,7 @@ Ao adicionar o seu nome, por favor observe:
 | Denis Almeida                  | denis.meida@gmail.com                 | https://github.com/denisvba           |
 | Diego Roberto Silva Nonato     | nonatodiego@hotmail.com               | https://github.com/nonatodiego        |
 | Diogo Fernandes de Queiroz     | diogoqueirooz1212@gmail.com           | https://github.com/Diogo-Queiroz      |
+| Edson Gonçalves da Luz         | edson.g.luz@gmail.com                 | https://github.com/eDsounD            |
 | Eduardo Felipe Lopes           | edufelopes@hotmail.com                | https://github.com/raikon55           |
 | Eduardo Figueiredo Gonçalves   | goncalves.ef@gmail.com                | https://github.com/eduardofg87        |
 | Eduardo Henrique               | eduardosatrini@gmail.com              | https://github.com/satrini            |
